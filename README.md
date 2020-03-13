@@ -1,1 +1,1 @@
-# Weekly Javascript practices
+# Weekly(not exactly) Javascript practices
