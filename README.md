@@ -1,1 +1,1 @@
-# ThreeJs animation render
+# Week Javascript practices
