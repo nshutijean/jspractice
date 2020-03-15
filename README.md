@@ -1,2 +1,2 @@
-#jspractice
-Interesting Javascript topics
+# jspractice
+Interesting Javascript topics(from simple to advanced)
